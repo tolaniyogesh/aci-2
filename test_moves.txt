@@ -47,3 +47,4 @@
 6,4
 6,5
 6,6
+https://www.kaggle.com/datasets/sumitm004/arxiv-scientific-research-papers-dataset?resource=download
